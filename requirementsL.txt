@@ -1,0 +1,5 @@
+fastapi
+gunicorn
+mangum
+line-bot-sdk
+requests
